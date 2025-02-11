@@ -131,7 +131,7 @@ The API includes proper error handling for:
 
 ## Contributing
 
-1. Fork the repository
+1. Fork and clone the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
